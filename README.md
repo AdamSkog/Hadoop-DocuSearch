@@ -6,4 +6,3 @@ A comprehensive Search and Recommender system project.
 - Adam Skoglund
 - Swastik Singh
 - Arona Cho
-- Joshua Auvaa
